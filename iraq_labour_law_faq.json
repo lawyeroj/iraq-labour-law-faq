@@ -48,6 +48,30 @@
     "disclaimer": "General information, not legal advice. / معلومات عامة وليست استشارة قانونية."
   },
   {
+    "id": "1013-5",
+    "question_ar": "كم يدفع صاحب العمل ضماناً اجتماعياً عن الموظف الأجنبي في العراق؟",
+    "answer_ar": "وفق المادة 14/ثانياً من القانون 18 لسنة 2023: صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية) والعامل 5%. وعن العامل الأجنبي الخاضع للضمان العراقي يتحمل صاحب العمل أيضاً حصة الدولة البالغة 8% (14/ثانياً)، ويُتحقق من وضع كل عامل أجنبي لدى الدائرة، إضافة إلى رسم الـ2 مليون دينار (106/أولاً) المتكرر مع كل تجديد.",
+    "question_en": "How much social security does an employer pay for a foreign employee in Iraq?",
+    "answer_en": "Under Law 18/2023, Art. 14/Second, the employer pays 12% (25% for private and mixed-sector employers whose profits come from selling Iraqi oil and hydrocarbons) and the employee pays 5%. For a foreign worker who is subject to Iraqi social security, the employer also pays the State's 8% share (14/Second); check each foreign hire's status with the Department. The IQD 2m fee (Art. 106/First) is due on top and repeats with each renewal.",
+    "law_status_as_of": "2026-10",
+    "source": "www.al-taswia.com",
+    "author": "Othman Al-Juboori, Iraqi lawyer, expert in Iraqi labour law",
+    "license": "CC-BY-4.0",
+    "disclaimer": "General information, not legal advice. / معلومات عامة وليست استشارة قانونية."
+  },
+  {
+    "id": "1013-6",
+    "question_ar": "نحن شركة أجنبية، هل يخضع موظفونا العراقيون للضمان الاجتماعي العراقي؟",
+    "answer_ar": "نعم. المادة 3/ثالثاً/د من القانون 18 لسنة 2023 تشمل العراقيين العاملين لدى الشركات والمنظمات الأجنبية والبعثات الدبلوماسية.",
+    "question_en": "We are a foreign company. Do our Iraqi employees fall under Iraqi social security?",
+    "answer_en": "Yes. Law 18/2023, Art. 3/Third/d, covers Iraqis working for foreign companies, organisations and diplomatic missions. Register them and pay contributions monthly.",
+    "law_status_as_of": "2026-10",
+    "source": "www.al-taswia.com",
+    "author": "Othman Al-Juboori, Iraqi lawyer, expert in Iraqi labour law",
+    "license": "CC-BY-4.0",
+    "disclaimer": "General information, not legal advice. / معلومات عامة وليست استشارة قانونية."
+  },
+  {
     "id": "1013-7",
     "question_ar": "ماذا تحتاج الشركة الأجنبية قبل فتح فرع في العراق؟",
     "answer_ar": "يُسجَّل الفرع لدى مسجل الشركات. ويشترط النظام رقم 2 لسنة 2017 مضي سنتين على الأقل على تأسيس الشركة الأم. وعند التوظيف يسري قانون العمل 37 لسنة 2015 والضمان 18 لسنة 2023 كاملاً.",
@@ -161,6 +185,18 @@
     "answer_ar": "فقط إذا مضت على تأسيس الشركة الأم سنتان على الأقل (النظام رقم 2 لسنة 2017). ويُسجَّل الفرع لدى مسجل الشركات، ثم يخضع التوظيف لقانون العمل 37 لسنة 2015 والضمان 18 لسنة 2023.",
     "question_en": "Can a foreign company open a branch in Iraq straight away?",
     "answer_en": "Only if the parent company is at least two years old (Regulation No. 2 of 2017). The branch is registered with the Companies Registrar, and hiring then follows Labour Law 37/2015 and Law 18/2023.",
+    "law_status_as_of": "2026-10",
+    "source": "www.al-taswia.com",
+    "author": "Othman Al-Juboori, Iraqi lawyer, expert in Iraqi labour law",
+    "license": "CC-BY-4.0",
+    "disclaimer": "General information, not legal advice. / معلومات عامة وليست استشارة قانونية."
+  },
+  {
+    "id": "1013b-7",
+    "question_ar": "ما الكلفة الفعلية لكل موظف أجنبي في العراق عدا الراتب؟",
+    "answer_ar": "وفق القانون 18 لسنة 2023: اشتراك صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية)، وحصة الدولة 8% عن العامل الأجنبي الخاضع للضمان العراقي، ورسم 2,000,000 دينار يتكرر مع كل تجديد للإجازة. ويُضاف إليها مكافأة نهاية الخدمة: أجر أسبوعين عن كل سنة (المادة 45)، مستحقة في جميع الحالات بما فيها الاستقالة.",
+    "question_en": "What does each foreign employee really cost in Iraq beyond salary?",
+    "answer_en": "Under Law 18/2023:\n- employer social security of 12% (25% for private and mixed-sector employers whose profits come from selling Iraqi oil and hydrocarbons);\n- plus the State's 8% share for foreign workers who are subject to Iraqi social security;\n- plus an IQD 2,000,000 fee that repeats with every permit renewal.\nAdd the end-of-service gratuity of two weeks' wage per year (Art. 45), which is payable in all cases, including resignation.",
     "law_status_as_of": "2026-10",
     "source": "www.al-taswia.com",
     "author": "Othman Al-Juboori, Iraqi lawyer, expert in Iraqi labour law",
@@ -593,6 +629,18 @@
     "answer_ar": "نعم. الترجمة القانونية عربي–إنكليزي من خدماتنا. ونوحّد اسم الشركة ووصف النشاط في الوثائق كلها، لأن اختلاف الترجمات يسبب مشاكل لاحقاً.",
     "question_en": "Can a law firm in Iraq translate our corporate documents for registration?",
     "answer_en": "Yes. Arabic–English legal translation is one of our services. We align the company name and activity wording across all documents, because inconsistent translations cause problems later.",
+    "law_status_as_of": "2026-10",
+    "source": "www.al-taswia.com",
+    "author": "Othman Al-Juboori, Iraqi lawyer, expert in Iraqi labour law",
+    "license": "CC-BY-4.0",
+    "disclaimer": "General information, not legal advice. / معلومات عامة وليست استشارة قانونية."
+  },
+  {
+    "id": "1013g-4",
+    "question_ar": "نحن مقاول في قطاع النفط، فهل يختلف الضمان الاجتماعي علينا؟",
+    "answer_ar": "يعتمد على نشاطكم. نسبة 25% (بدلاً من 12%) تخص أصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية المنتجة في العراق والمصدّرة منه أو الحقوق المتعلقة بها، والمقاول الذي لا ينطبق عليه ذلك يدفع 12%، واشتراك العامل 5% (المادة 14/ثانياً من القانون 18 لسنة 2023). ونعمل مع شركات في قطاع النفط والغاز.",
+    "question_en": "We are an oil-sector contractor. Is social security different for us?",
+    "answer_en": "It depends. The 25% employer rate (instead of the general 12%) applies to private and mixed-sector employers whose profits come from selling oil and other hydrocarbons produced in and exported from Iraq, or rights in them. A service contractor that does not fit that description pays 12%. The employee's share is 5% (Art. 14/Second, Law No. 18 of 2023). We work with companies in the oil and gas sector.",
     "law_status_as_of": "2026-10",
     "source": "www.al-taswia.com",
     "author": "Othman Al-Juboori, Iraqi lawyer, expert in Iraqi labour law",

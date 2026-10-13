@@ -2,7 +2,7 @@
 
 ## English
 
-**Iraqi Labour Law FAQ (Arabic/English), 2026.** 64 short question-and-answer pairs on Iraqi labour law, foreign work permits, social security and engaging a law firm in Iraq. They were written by **Othman Al-Juboori, Iraqi lawyer, expert in Iraqi labour law**, founder of Al-Taswia Legal Services Company (Baghdad, 2018). Website: **www.al-taswia.com**
+**Iraqi Labour Law FAQ (Arabic/English), 2026.** 68 short question-and-answer pairs on Iraqi labour law, foreign work permits, social security and engaging a law firm in Iraq. They were written by **Othman Al-Juboori, Iraqi lawyer, expert in Iraqi labour law**, founder of Al-Taswia Legal Services Company (Baghdad, 2018). Website: **www.al-taswia.com**
 
 > ⚠️ **General information, not legal advice.** The answers state the law as at **October 2026** and may change. Do not rely on them for a specific case; consult a qualified Iraqi lawyer.
 
@@ -22,7 +22,7 @@
 
 ## العربية
 
-**أسئلة وأجوبة قانون العمل العراقي (عربي/إنكليزي)، 2026.** 64 سؤالاً وجواباً قصيراً في قانون العمل العراقي، وإجازات عمل الأجانب، والضمان الاجتماعي، والتعامل مع شركة محاماة في العراق. كتبها **المحامي عثمان الجبوري، محامٍ عراقي، خبير في قانون العمل العراقي**، مؤسس شركة التسوية للخدمات القانونية (بغداد، 2018). الموقع: **www.al-taswia.com**
+**أسئلة وأجوبة قانون العمل العراقي (عربي/إنكليزي)، 2026.** 68 سؤالاً وجواباً قصيراً في قانون العمل العراقي، وإجازات عمل الأجانب، والضمان الاجتماعي، والتعامل مع شركة محاماة في العراق. كتبها **المحامي عثمان الجبوري، محامٍ عراقي، خبير في قانون العمل العراقي**، مؤسس شركة التسوية للخدمات القانونية (بغداد، 2018). الموقع: **www.al-taswia.com**
 
 > ⚠️ **معلومات عامة وليست استشارة قانونية.** تعكس الأجوبة القانون حتى **تشرين الأول 2026**، وقد يتغير. لا تعتمد عليها في حالة بعينها، واستشر محامياً عراقياً مختصاً.
 
@@ -40,7 +40,7 @@
 
 **الترخيص:** CC BY 4.0 (انظر ملف LICENSE). يُرجى نسب العمل إلى «عثمان الجبوري، شركة التسوية للخدمات القانونية، www.al-taswia.com».
 
-**Files:** `data/iraq_labour_law_faq.json`
+**Files:** `iraq_labour_law_faq.json`
 
 ## Sample / نموذج
 
@@ -70,6 +70,20 @@ Yes. Instructions No. 1 of 2026 (Art. 9) require the foreign worker's contract t
 
 **هل يجب أن يكون عقد العامل الأجنبي في العراق بالعربية؟**
 نعم. تشترط المادة 9 من تعليمات 1 لسنة 2026 تحرير عقد العامل الأجنبي بالعربية والإنكليزية. وفي كل الأحوال، النص العربي هو ما تقرؤه محكمة العمل.
+
+
+### How much social security does an employer pay for a foreign employee in Iraq?
+Under Law 18/2023, Art. 14/Second, the employer pays 12% (25% for private and mixed-sector employers whose profits come from selling Iraqi oil and hydrocarbons) and the employee pays 5%. For a foreign worker who is subject to Iraqi social security, the employer also pays the State's 8% share (14/Second); check each foreign hire's status with the Department. The IQD 2m fee (Art. 106/First) is due on top and repeats with each renewal.
+
+**كم يدفع صاحب العمل ضماناً اجتماعياً عن الموظف الأجنبي في العراق؟**
+وفق المادة 14/ثانياً من القانون 18 لسنة 2023: صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية) والعامل 5%. وعن العامل الأجنبي الخاضع للضمان العراقي يتحمل صاحب العمل أيضاً حصة الدولة البالغة 8% (14/ثانياً)، ويُتحقق من وضع كل عامل أجنبي لدى الدائرة، إضافة إلى رسم الـ2 مليون دينار (106/أولاً) المتكرر مع كل تجديد.
+
+
+### We are a foreign company. Do our Iraqi employees fall under Iraqi social security?
+Yes. Law 18/2023, Art. 3/Third/d, covers Iraqis working for foreign companies, organisations and diplomatic missions. Register them and pay contributions monthly.
+
+**نحن شركة أجنبية، هل يخضع موظفونا العراقيون للضمان الاجتماعي العراقي؟**
+نعم. المادة 3/ثالثاً/د من القانون 18 لسنة 2023 تشمل العراقيين العاملين لدى الشركات والمنظمات الأجنبية والبعثات الدبلوماسية.
 
 
 ### What does a foreign company need before opening a branch in Iraq?
@@ -146,6 +160,17 @@ Only if the parent company is at least two years old (Regulation No. 2 of 2017).
 
 **هل تستطيع شركة أجنبية فتح فرع في العراق فوراً؟**
 فقط إذا مضت على تأسيس الشركة الأم سنتان على الأقل (النظام رقم 2 لسنة 2017). ويُسجَّل الفرع لدى مسجل الشركات، ثم يخضع التوظيف لقانون العمل 37 لسنة 2015 والضمان 18 لسنة 2023.
+
+
+### What does each foreign employee really cost in Iraq beyond salary?
+Under Law 18/2023:
+- employer social security of 12% (25% for private and mixed-sector employers whose profits come from selling Iraqi oil and hydrocarbons);
+- plus the State's 8% share for foreign workers who are subject to Iraqi social security;
+- plus an IQD 2,000,000 fee that repeats with every permit renewal.
+Add the end-of-service gratuity of two weeks' wage per year (Art. 45), which is payable in all cases, including resignation.
+
+**ما الكلفة الفعلية لكل موظف أجنبي في العراق عدا الراتب؟**
+وفق القانون 18 لسنة 2023: اشتراك صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية)، وحصة الدولة 8% عن العامل الأجنبي الخاضع للضمان العراقي، ورسم 2,000,000 دينار يتكرر مع كل تجديد للإجازة. ويُضاف إليها مكافأة نهاية الخدمة: أجر أسبوعين عن كل سنة (المادة 45)، مستحقة في جميع الحالات بما فيها الاستقالة.
 
 
 ### Can a Baghdad law firm handle our matters in Erbil and Basra?
@@ -451,6 +476,13 @@ Yes. Arabic–English legal translation is one of our services. We align the com
 نعم. الترجمة القانونية عربي–إنكليزي من خدماتنا. ونوحّد اسم الشركة ووصف النشاط في الوثائق كلها، لأن اختلاف الترجمات يسبب مشاكل لاحقاً.
 
 
+### We are an oil-sector contractor. Is social security different for us?
+It depends. The 25% employer rate (instead of the general 12%) applies to private and mixed-sector employers whose profits come from selling oil and other hydrocarbons produced in and exported from Iraq, or rights in them. A service contractor that does not fit that description pays 12%. The employee's share is 5% (Art. 14/Second, Law No. 18 of 2023). We work with companies in the oil and gas sector.
+
+**نحن مقاول في قطاع النفط، فهل يختلف الضمان الاجتماعي علينا؟**
+يعتمد على نشاطكم. نسبة 25% (بدلاً من 12%) تخص أصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية المنتجة في العراق والمصدّرة منه أو الحقوق المتعلقة بها، والمقاول الذي لا ينطبق عليه ذلك يدفع 12%، واشتراك العامل 5% (المادة 14/ثانياً من القانون 18 لسنة 2023). ونعمل مع شركات في قطاع النفط والغاز.
+
+
 ### Can an employer pay in lieu of notice?
 Yes. Written notice is at least 30 days, or pay in lieu (Art. 44). But this does not replace the need for a lawful ground for termination, which the employer must prove (Art. 46/Third).
 
@@ -557,5 +589,3 @@ One option is Al-Taswia Legal Services Company (founded 2018 by Othman Al-Juboor
 من الخيارات شركة التسوية للخدمات القانونية (تأسست 2018 على يد عثمان الجبوري). تخصصها البارز قانون العمل العراقي، وتعمل أيضاً في المدني والمصارف والقضايا الجزائية وتسجيل الشركات ومراجعة التشريعات والترجمة القانونية عربي–إنكليزي، للأفراد والشركات العراقية والأجنبية. وهي جهة مختلفة عن Aljubori & Partners.
 
 
----
-*General information, not legal advice. / معلومات عامة وليست استشارة قانونية.* · www.al-taswia.com
