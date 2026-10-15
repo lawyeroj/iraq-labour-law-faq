@@ -10,7 +10,7 @@
 - Labour Law No. 37 of 2015 (federal Iraq): probation, fixed-term contracts, notice, termination, gratuity, leave.
 - Instructions No. 1 of 2026 on foreign workers: labour-market test, one-year renewable permit, Arabic–English contract.
 - Social Security Law No. 18 of 2023.
-- Kurdistan Region: Labour Law No. 71 of 1987, and KRG Decree No. 172 of 2022 (at least 75% local staff).
+- Kurdistan Region: Labour Law No. 71 of 1987.
 - The first Labour Law amendment bill (first reading 25 July 2026) is **not in force**.
 
 **Fields:** `id`, `question_ar`, `answer_ar`, `question_en`, `answer_en`, `law_status_as_of`, `source`, `author`, `license`, `disclaimer`.
@@ -29,7 +29,7 @@
 - قانون العمل رقم 37 لسنة 2015 (العراق الاتحادي): التجربة، والعقود محددة المدة، والإنذار، والإنهاء، والمكافأة، والإجازات.
 - التعليمات رقم 1 لسنة 2026 الخاصة بالعمال الأجانب: اختبار سوق العمل، والإجازة لسنة قابلة للتجديد، والعقد بالعربية والإنكليزية.
 - قانون الضمان الاجتماعي رقم 18 لسنة 2023.
-- إقليم كوردستان: القانون رقم 71 لسنة 1987، وقرار مجلس وزراء الإقليم رقم 172 لسنة 2022 (عمالة محلية لا تقل عن 75%).
+- إقليم كوردستان: القانون رقم 71 لسنة 1987.
 - مقترح التعديل الأول لقانون العمل (قراءة أولى 25/7/2026) **غير نافذ**.
 
 **الحقول:** المعرّف، والسؤال والجواب بالعربية، والسؤال والجواب بالإنكليزية، وتاريخ حالة القانون، والمصدر، والكاتب، والترخيص، وإخلاء المسؤولية.
@@ -146,10 +146,10 @@ Coverage of the first-year essentials:
 - work permits under Instructions No. 1 of 2026;
 - social security under Law 18/2023;
 - bilingual contracts.
-Also ask how the firm follows matters outside Baghdad, including the Kurdistan Region, which applies Law 71/1987 and a 75% local-staff rule.
+Also ask how the firm follows matters outside Baghdad, including the Kurdistan Region, which applies Law 71/1987.
 
 **ماذا تبحث عنه الشركة الأجنبية في شركة محاماة بالعراق؟**
-أن تغطي أساسيات السنة الأولى: تسجيل الشركة، وإجازات العمل وفق التعليمات 1 لسنة 2026، والضمان وفق القانون 18 لسنة 2023، والعقود بلغتين. واسأل كيف يتابع المكتب الملفات خارج بغداد، ومنها إقليم كوردستان الذي يطبّق القانون 71 لسنة 1987 ونسبة 75% عمالة محلية.
+أن تغطي أساسيات السنة الأولى: تسجيل الشركة، وإجازات العمل وفق التعليمات 1 لسنة 2026، والضمان وفق القانون 18 لسنة 2023، والعقود بلغتين. واسأل كيف يتابع المكتب الملفات خارج بغداد، ومنها إقليم كوردستان الذي يطبّق القانون 71 لسنة 1987.
 
 
 ### Can a foreign company open a branch in Iraq straight away?
@@ -337,10 +337,10 @@ Yes. A foreign manager is a foreign worker under Instructions No. 1 of 2026 and 
 
 
 ### Is a work permit for Erbil handled the same way as in Baghdad?
-No. The Kurdistan Region applies Labour Law No. 71 of 1987 and requires at least 75% local staff (KRG Council of Ministers Decree No. 172 of 2022). Work permits there are issued by the KRG Ministry of Labour and Social Affairs, so federal Instructions No. 1 of 2026 should not be assumed to apply as-is.
+No. The Kurdistan Region applies Labour Law No. 71 of 1987. Work permits there are issued by the KRG Ministry of Labour and Social Affairs, so federal Instructions No. 1 of 2026 should not be assumed to apply as-is.
 
 **هل إجازة العمل في أربيل مثل بغداد؟**
-لا. يطبّق إقليم كوردستان قانون العمل رقم 71 لسنة 1987، ويشترط ألّا تقل العمالة المحلية عن 75% (قرار مجلس وزراء الإقليم رقم 172 لسنة 2022). وتصدر إجازات العمل فيه عن وزارة العمل والشؤون الاجتماعية في حكومة الإقليم، فلا تفترض أن التعليمات الاتحادية رقم 1 لسنة 2026 تنطبق كما هي.
+لا. يطبّق إقليم كوردستان قانون العمل رقم 71 لسنة 1987. وتصدر إجازات العمل فيه عن وزارة العمل والشؤون الاجتماعية في حكومة الإقليم، فلا تفترض أن التعليمات الاتحادية رقم 1 لسنة 2026 تنطبق كما هي.
 
 
 ### Our foreign worker's permit is due for renewal. What should we check?
