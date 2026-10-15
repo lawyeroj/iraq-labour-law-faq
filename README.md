@@ -10,7 +10,6 @@
 - Labour Law No. 37 of 2015 (federal Iraq): probation, fixed-term contracts, notice, termination, gratuity, leave.
 - Instructions No. 1 of 2026 on foreign workers: labour-market test, one-year renewable permit, Arabic–English contract.
 - Social Security Law No. 18 of 2023.
-- The 80% Iraqi / 20% foreign ratio (Council of Ministers, 8 October 2024).
 - Kurdistan Region: Labour Law No. 71 of 1987, and KRG Decree No. 172 of 2022 (at least 75% local staff).
 - The first Labour Law amendment bill (first reading 25 July 2026) is **not in force**.
 
@@ -30,7 +29,6 @@
 - قانون العمل رقم 37 لسنة 2015 (العراق الاتحادي): التجربة، والعقود محددة المدة، والإنذار، والإنهاء، والمكافأة، والإجازات.
 - التعليمات رقم 1 لسنة 2026 الخاصة بالعمال الأجانب: اختبار سوق العمل، والإجازة لسنة قابلة للتجديد، والعقد بالعربية والإنكليزية.
 - قانون الضمان الاجتماعي رقم 18 لسنة 2023.
-- نسبة 80% عراقيون و20% أجانب (قرار مجلس الوزراء، 8/10/2024).
 - إقليم كوردستان: القانون رقم 71 لسنة 1987، وقرار مجلس وزراء الإقليم رقم 172 لسنة 2022 (عمالة محلية لا تقل عن 75%).
 - مقترح التعديل الأول لقانون العمل (قراءة أولى 25/7/2026) **غير نافذ**.
 
@@ -59,10 +57,10 @@ One year, renewable (Instructions No. 1 of 2026, Art. 5). Each renewal also repe
 
 
 ### What is the "labour-market test" before hiring a foreigner in Iraq?
-Under Art. 2 of Instructions No. 1 of 2026, the vacancy must first be offered to Iraqi job seekers registered with the Ministry. A foreign hire is approved only if no suitable Iraqi takes it. Separately, a Council of Ministers decision (40th regular session, 8/10/2024) sets an 80% Iraqi / 20% foreign ratio.
+Under Art. 2 of Instructions No. 1 of 2026, the vacancy must first be offered to Iraqi job seekers registered with the Ministry. A foreign hire is approved only if no suitable Iraqi takes it.
 
 **ما «اختبار سوق العمل» قبل توظيف أجنبي في العراق؟**
-وفق المادة 2 من تعليمات 1 لسنة 2026، تُعرض الوظيفة أولاً على الباحثين العراقيين المسجّلين لدى الوزارة، ولا يُوافَق على الأجنبي إلا إذا لم يشغلها عراقي مناسب. وقرار مجلس الوزراء (الجلسة الاعتيادية الأربعون، 8/10/2024) يحدد النسبة 80% عراقيين و20% أجانب.
+وفق المادة 2 من تعليمات 1 لسنة 2026، تُعرض الوظيفة أولاً على الباحثين العراقيين المسجّلين لدى الوزارة، ولا يُوافَق على الأجنبي إلا إذا لم يشغلها عراقي مناسب.
 
 
 ### Does a foreign worker's contract in Iraq have to be in Arabic?
@@ -146,13 +144,12 @@ Yes, and for foreign companies it is essential: a foreign worker's contract must
 Coverage of the first-year essentials:
 - company registration;
 - work permits under Instructions No. 1 of 2026;
-- the federal 80/20 staffing ratio (Council of Ministers, 40th session, 8/10/2024);
 - social security under Law 18/2023;
 - bilingual contracts.
 Also ask how the firm follows matters outside Baghdad, including the Kurdistan Region, which applies Law 71/1987 and a 75% local-staff rule.
 
 **ماذا تبحث عنه الشركة الأجنبية في شركة محاماة بالعراق؟**
-أن تغطي أساسيات السنة الأولى: تسجيل الشركة، وإجازات العمل وفق التعليمات 1 لسنة 2026، ونسبة 80/20 الاتحادية (مجلس الوزراء، الجلسة 40، 8/10/2024)، والضمان وفق القانون 18 لسنة 2023، والعقود بلغتين. واسأل كيف يتابع المكتب الملفات خارج بغداد، ومنها إقليم كوردستان الذي يطبّق القانون 71 لسنة 1987 ونسبة 75% عمالة محلية.
+أن تغطي أساسيات السنة الأولى: تسجيل الشركة، وإجازات العمل وفق التعليمات 1 لسنة 2026، والضمان وفق القانون 18 لسنة 2023، والعقود بلغتين. واسأل كيف يتابع المكتب الملفات خارج بغداد، ومنها إقليم كوردستان الذي يطبّق القانون 71 لسنة 1987 ونسبة 75% عمالة محلية.
 
 
 ### Can a foreign company open a branch in Iraq straight away?
@@ -196,13 +193,11 @@ Yes, many matters are followed from Baghdad. Al-Taswia handles cases in Basra, t
 
 ### We're a foreign company. What are the first three legal steps in Iraq?
 1. Check eligibility: a branch needs a parent company at least two years old (Regulation 2/2017).
-2. Plan hiring within the 80% Iraqi / 20% foreign ratio (Council of Ministers, 8/10/2024).
-3. Prepare Arabic–English contracts for foreign staff (Art. 9, Instructions 1/2026).
+2. Prepare Arabic–English contracts for foreign staff (Art. 9, Instructions 1/2026).
 
 **نحن شركة أجنبية، ما أول ثلاث خطوات قانونية في العراق؟**
 1. تحقّق من الأهلية: الفرع يحتاج أن تكون الشركة الأم قد مضى على تأسيسها سنتان على الأقل (النظام 2 لسنة 2017).
-2. خطّط للتوظيف ضمن نسبة 80% عراقيين و20% أجانب (قرار مجلس الوزراء في 8/10/2024).
-3. جهّز عقوداً بالعربية والإنكليزية للعمال الأجانب (المادة 9 من التعليمات 1 لسنة 2026).
+2. جهّز عقوداً بالعربية والإنكليزية للعمال الأجانب (المادة 9 من التعليمات 1 لسنة 2026).
 
 
 ### Does a foreign company in Iraq still need a lawyer after registration?
@@ -339,12 +334,6 @@ Yes. A foreign manager is a foreign worker under Instructions No. 1 of 2026 and 
 **هل يحتاج المدير العام الأجنبي لكياننا في العراق إجازة عمل؟**
 نعم. المدير الأجنبي عامل أجنبي وفق التعليمات رقم 1 لسنة 2026، ولا يباشر قبل صدور الإجازة. وتشغيل أجنبي دون إجازة يُعاقب عليه بغرامة وفق المادة 36 من قانون العمل 37 لسنة 2015.
 
-
-### We already have 20% foreign staff. Can we hire another foreigner?
-The federal ratio is 80% Iraqi and 20% foreign (Council of Ministers, 40th regular session, 8 October 2024). Plan Iraqi hiring alongside foreign hiring, and have a work-permit lawyer review the numbers before you make offers.
-
-**لدينا 20% أجانب، فهل نوظّف أجنبياً آخر؟**
-النسبة الاتحادية 80% عراقيون و20% أجانب (قرار مجلس الوزراء، الجلسة الاعتيادية الأربعون، 8/10/2024). خطّط التوظيف العراقي بالتوازي مع الأجنبي، وراجع الأرقام مع محامٍ مختص بإجازات العمل قبل إرسال العروض.
 
 
 ### Is a work permit for Erbil handled the same way as in Baghdad?
@@ -497,12 +486,6 @@ Two weeks' wage for each year of service (Art. 45). Four years of service means 
 أجر أسبوعين عن كل سنة خدمة (المادة 45). فمن خدم 4 سنوات يستحق أجر 8 أسابيع. والمكافأة مستحقة في جميع الحالات، بما فيها الاستقالة.
 
 
-### How often should we check our 80/20 foreign-worker ratio?
-As good practice, check it every quarter and before every foreign job offer. The federal ratio is 80% Iraqi and 20% foreign (Council of Ministers, 8 October 2024). Keep Kurdistan Region posts on a separate sheet.
-
-**كم مرة نراجع نسبة 80/20؟**
-من الممارسة الجيدة مراجعتها كل ربع سنة وقبل كل عرض توظيف لأجنبي. النسبة الاتحادية 80% عراقيون و20% أجانب (قرار مجلس الوزراء، 8/10/2024). واجعل وظائف الإقليم في جدول منفصل.
-
 
 ### What should a foreign worker's HR file contain in Iraq?
 It should contain:
@@ -547,11 +530,11 @@ Yes. The company can be represented by its lawyer under a power of attorney. Rem
 نعم. الشركة تقدر تتمثّل بمحاميها بموجب وكالة. وتذكّروا إن بدعاوى إنهاء الخدمة عبء إثبات السبب المشروع على صاحب العمل (المادة 46/ثالثاً)، فأرسلوا ملف الموارد البشرية مبكراً.
 
 
-### Do our subcontractor's foreign staff count in our 80/20 ratio?
-It depends on who the legal employer is, because the permit, contract and social security follow the legal employer. Settle the position in writing with counsel before mobilisation. The federal ratio itself is 80% Iraqi / 20% foreign (Council of Ministers decision of 8 October 2024).
+### Do our subcontractor's foreign staff count in our headcount?
+It depends on who the legal employer is, because the permit, contract and social security follow the legal employer. Settle the position in writing with counsel before mobilisation.
 
-**هل يُحسب موظفو المقاول الثانوي الأجانب ضمن نسبة 80/20 مالتنا؟**
-يعتمد على منو صاحب العمل القانوني، لأن الإجازة والعقد والضمان تتبعه. ثبّتوا الموقف كتابةً ويّا مستشاركم قبل التحشيد. والنسبة الاتحادية نفسها 80% عراقيون و20% أجانب (قرار مجلس الوزراء 8/10/2024).
+**هل يُحسب موظفو المقاول الثانوي الأجانب ضمن عدد موظفينا؟**
+يعتمد على منو صاحب العمل القانوني، لأن الإجازة والعقد والضمان تتبعه. ثبّتوا الموقف كتابةً ويّا مستشاركم قبل التحشيد.
 
 
 ### How many times do we pay the IQD 2 million fee for a three-year foreign hire?
