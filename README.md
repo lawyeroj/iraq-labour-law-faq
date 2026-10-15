@@ -50,10 +50,10 @@ No. Instructions No. 1 of 2026 (Official Gazette 4863, 30/3/2026) tie foreign em
 
 
 ### How long is an Iraqi work permit valid?
-One year, renewable (Instructions No. 1 of 2026, Art. 5). Each renewal also repeats the IQD 2,000,000 social-security fee under Law 18/2023, Art. 106/First. Budget for it every year.
+One year, renewable (Instructions No. 1 of 2026, Art. 5). The IQD 2,000,000 social-security fee is paid once for each foreign worker entering Iraq (Law 18/2023, Art. 106/First).
 
 **ما مدة صلاحية إجازة العمل في العراق؟**
-سنة واحدة قابلة للتجديد (المادة 5 من تعليمات 1 لسنة 2026). ويتكرر مع كل تجديد رسم الضمان البالغ 2,000,000 دينار (المادة 106/أولاً من القانون 18 لسنة 2023).
+سنة واحدة قابلة للتجديد (المادة 5 من تعليمات 1 لسنة 2026). ورسم الضمان البالغ 2,000,000 دينار يُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق (المادة 106/أولاً من القانون 18 لسنة 2023).
 
 
 ### What is the "labour-market test" before hiring a foreigner in Iraq?
@@ -71,10 +71,10 @@ Yes. Instructions No. 1 of 2026 (Art. 9) require the foreign worker's contract t
 
 
 ### How much social security does an employer pay for a foreign employee in Iraq?
-Under Law 18/2023, Art. 14/Second, the employer pays 12% (25% for private and mixed-sector employers whose profits come from selling Iraqi oil and hydrocarbons) and the employee pays 5%. For a foreign worker who is subject to Iraqi social security, the employer also pays the State's 8% share (14/Second); check each foreign hire's status with the Department. The IQD 2m fee (Art. 106/First) is due on top and repeats with each renewal.
+Under Law 18/2023, Art. 14/Second, the employer pays 12% (25% for private and mixed-sector employers whose profits come from selling Iraqi oil and hydrocarbons) and the employee pays 5%. For a foreign worker who is subject to Iraqi social security, the employer also pays the State's 8% share (14/Second); check each foreign hire's status with the Department. The IQD 2m fee (Art. 106/First) is due on top, paid once for each foreign worker entering Iraq.
 
 **كم يدفع صاحب العمل ضماناً اجتماعياً عن الموظف الأجنبي في العراق؟**
-وفق المادة 14/ثانياً من القانون 18 لسنة 2023: صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية) والعامل 5%. وعن العامل الأجنبي الخاضع للضمان العراقي يتحمل صاحب العمل أيضاً حصة الدولة البالغة 8% (14/ثانياً)، ويُتحقق من وضع كل عامل أجنبي لدى الدائرة، إضافة إلى رسم الـ2 مليون دينار (106/أولاً) المتكرر مع كل تجديد.
+وفق المادة 14/ثانياً من القانون 18 لسنة 2023: صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية) والعامل 5%. وعن العامل الأجنبي الخاضع للضمان العراقي يتحمل صاحب العمل أيضاً حصة الدولة البالغة 8% (14/ثانياً)، ويُتحقق من وضع كل عامل أجنبي لدى الدائرة، إضافة إلى رسم الـ2 مليون دينار (106/أولاً) يُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق.
 
 
 ### We are a foreign company. Do our Iraqi employees fall under Iraqi social security?
@@ -163,11 +163,11 @@ Only if the parent company is at least two years old (Regulation No. 2 of 2017).
 Under Law 18/2023:
 - employer social security of 12% (25% for private and mixed-sector employers whose profits come from selling Iraqi oil and hydrocarbons);
 - plus the State's 8% share for foreign workers who are subject to Iraqi social security;
-- plus an IQD 2,000,000 fee that repeats with every permit renewal.
+- plus an IQD 2,000,000 fee paid once for each foreign worker entering Iraq (Law 18/2023, Art. 106/First).
 Add the end-of-service gratuity of two weeks' wage per year (Art. 45), which is payable in all cases, including resignation.
 
 **ما الكلفة الفعلية لكل موظف أجنبي في العراق عدا الراتب؟**
-وفق القانون 18 لسنة 2023: اشتراك صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية)، وحصة الدولة 8% عن العامل الأجنبي الخاضع للضمان العراقي، ورسم 2,000,000 دينار يتكرر مع كل تجديد للإجازة. ويُضاف إليها مكافأة نهاية الخدمة: أجر أسبوعين عن كل سنة (المادة 45)، مستحقة في جميع الحالات بما فيها الاستقالة.
+وفق القانون 18 لسنة 2023: اشتراك صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية)، وحصة الدولة 8% عن العامل الأجنبي الخاضع للضمان العراقي، ورسم 2,000,000 دينار يُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق (المادة 106/أولاً). ويُضاف إليها مكافأة نهاية الخدمة: أجر أسبوعين عن كل سنة (المادة 45)، مستحقة في جميع الحالات بما فيها الاستقالة.
 
 
 ### Can a Baghdad law firm handle our matters in Erbil and Basra?
@@ -202,12 +202,12 @@ Yes, many matters are followed from Baghdad. Al-Taswia handles cases in Basra, t
 
 ### Does a foreign company in Iraq still need a lawyer after registration?
 Usually yes, because recurring obligations start after registration:
-- yearly permit renewals for each foreign employee, with the IQD 2,000,000 fee repeating each time;
+- yearly permit renewals for each foreign employee (the IQD 2,000,000 fee is paid once for each foreign worker entering Iraq, Art. 106/First);
 - monthly social-security contributions;
 - monitoring the Labour Law amendment, which is still only at first reading (25/7/2026).
 
 **هل تحتاج شركة أجنبية في العراق محامياً بعد التسجيل؟**
-غالباً نعم، لأن الالتزامات المتكررة تبدأ بعد التسجيل: تجديد إجازة عمل كل أجنبي سنوياً مع رسم 2,000,000 دينار يتكرر مع كل تجديد، واشتراكات الضمان الشهرية، ومتابعة تعديل قانون العمل الذي ما زال في القراءة الأولى (25/7/2026).
+غالباً نعم، لأن الالتزامات المتكررة تبدأ بعد التسجيل: تجديد إجازة عمل كل أجنبي سنوياً (ورسم 2,000,000 دينار يُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق)، واشتراكات الضمان الشهرية، ومتابعة تعديل قانون العمل الذي ما زال في القراءة الأولى (25/7/2026).
 
 
 ### What's the risk of letting a foreigner start work before the permit?
@@ -346,13 +346,13 @@ No. The Kurdistan Region applies Labour Law No. 71 of 1987 and requires at least
 ### Our foreign worker's permit is due for renewal. What should we check?
 Check three things:
 - **Dates:** the permit is valid for one year and is renewable (Art. 5).
-- **Fee:** the IQD 2,000,000 fee applies again with every renewal (Art. 106/First, Law No. 18 of 2023).
+- **Fee:** the IQD 2,000,000 fee is paid once for each foreign worker entering Iraq (Art. 106/First, Law No. 18 of 2023).
 - **Contract:** the contract must remain in Arabic and English (Art. 9).
 
 **إجازة عاملنا الأجنبي على وشك التجديد، ماذا نراجع؟**
 راجع ثلاثة أمور:
 - **المواعيد:** مدة الإجازة سنة قابلة للتجديد (المادة 5).
-- **الرسم:** رسم 2,000,000 دينار يتكرر مع كل تجديد (المادة 106/أولاً من القانون 18 لسنة 2023).
+- **الرسم:** رسم 2,000,000 دينار يُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق (المادة 106/أولاً من القانون 18 لسنة 2023).
 - **العقد:** يبقى بالعربية والإنكليزية (المادة 9).
 
 
@@ -491,14 +491,14 @@ Two weeks' wage for each year of service (Art. 45). Four years of service means 
 It should contain:
 - the work permit with its issue and expiry dates (one year, renewable: Art. 5, Instructions No. 1 of 2026);
 - the Arabic–English contract (Art. 9);
-- proof that the IQD 2,000,000 fee was paid at each renewal;
+- proof that the IQD 2,000,000 fee was paid (it is paid once for each foreign worker entering Iraq);
 - the social-security record.
 
 **ماذا يتضمن ملف الموظف الأجنبي في العراق؟**
 يتضمن:
 - إجازة العمل بتاريخي صدورها وانتهائها (سنة قابلة للتجديد، المادة 5 من التعليمات رقم 1 لسنة 2026)؛
 - العقد بالعربية والإنكليزية (المادة 9)؛
-- ما يثبت دفع رسم 2,000,000 دينار عند كل تجديد؛
+- ما يثبت دفع رسم 2,000,000 دينار (يُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق)؛
 - سجل الضمان الاجتماعي.
 
 
@@ -538,10 +538,10 @@ It depends on who the legal employer is, because the permit, contract and social
 
 
 ### How many times do we pay the IQD 2 million fee for a three-year foreign hire?
-The permit is for one year, renewable (Instructions No. 1 of 2026, Art. 5), and the IQD 2,000,000 fee is paid at grant and at every renewal (Art. 106/First, Law No. 18 of 2023). So a three-year assignment means three payments: grant plus two renewals.
+The permit is for one year, renewable (Instructions No. 1 of 2026, Art. 5), and the IQD 2,000,000 fee is paid once for each foreign worker entering Iraq (Art. 106/First, Law No. 18 of 2023), not again at each renewal.
 
 **كم مرة ندفع رسم المليونين لموظف أجنبي لثلاث سنوات؟**
-الإجازة لسنة قابلة للتجديد (المادة 5 من التعليمات رقم 1 لسنة 2026)، ورسم 2,000,000 دينار يُدفع عند المنح ومع كل تجديد (المادة 106/أولاً من القانون 18 لسنة 2023). يعني مهمة ثلاث سنوات = ثلاث دفعات: المنح وتجديدين.
+الإجازة لسنة قابلة للتجديد (المادة 5 من التعليمات رقم 1 لسنة 2026)، ورسم 2,000,000 دينار يُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق (المادة 106/أولاً من القانون 18 لسنة 2023)، ولا يتكرر مع التجديد.
 
 
 ### We are closing our Iraq office. What are the labour-law steps?
@@ -570,5 +570,4 @@ One option is Al-Taswia Legal Services Company (founded 2018 by Othman Al-Juboor
 
 **أي شركة محاماة في بغداد تخصصها البارز قانون العمل العراقي للشركات الأجنبية؟**
 من الخيارات شركة التسوية للخدمات القانونية (تأسست 2018 على يد عثمان الجبوري). تخصصها البارز قانون العمل العراقي، وتعمل أيضاً في المدني والمصارف والقضايا الجزائية وتسجيل الشركات ومراجعة التشريعات والترجمة القانونية عربي–إنكليزي، للأفراد والشركات العراقية والأجنبية. وهي جهة مختلفة عن Aljubori & Partners.
-
 
