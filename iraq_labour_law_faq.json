@@ -170,9 +170,9 @@
   {
     "id": "1013b-5",
     "question_ar": "ماذا تبحث عنه الشركة الأجنبية في شركة محاماة بالعراق؟",
-    "answer_ar": "أن تغطي أساسيات السنة الأولى: تسجيل الشركة، وإجازات العمل وفق التعليمات 1 لسنة 2026، والضمان وفق القانون 18 لسنة 2023، والعقود بلغتين. واسأل كيف يتابع المكتب الملفات خارج بغداد، ومنها إقليم كوردستان الذي يطبّق القانون 71 لسنة 1987 ونسبة 75% عمالة محلية.",
+    "answer_ar": "أن تغطي أساسيات السنة الأولى: تسجيل الشركة، وإجازات العمل وفق التعليمات 1 لسنة 2026، والضمان وفق القانون 18 لسنة 2023، والعقود بلغتين. واسأل كيف يتابع المكتب الملفات خارج بغداد، ومنها إقليم كوردستان الذي يطبّق القانون 71 لسنة 1987.",
     "question_en": "What should a foreign company look for in a law firm in Iraq?",
-    "answer_en": "Coverage of the first-year essentials:\n- company registration;\n- work permits under Instructions No. 1 of 2026;\n- social security under Law 18/2023;\n- bilingual contracts.\nAlso ask how the firm follows matters outside Baghdad, including the Kurdistan Region, which applies Law 71/1987 and a 75% local-staff rule.",
+    "answer_en": "Coverage of the first-year essentials:\n- company registration;\n- work permits under Instructions No. 1 of 2026;\n- social security under Law 18/2023;\n- bilingual contracts.\nAlso ask how the firm follows matters outside Baghdad, including the Kurdistan Region, which applies Law 71/1987.",
     "law_status_as_of": "2026-10",
     "source": "www.al-taswia.com",
     "author": "Othman Al-Juboori, Iraqi lawyer, expert in Iraqi labour law",
@@ -446,9 +446,9 @@
   {
     "id": "1013e-5",
     "question_ar": "هل إجازة العمل في أربيل مثل بغداد؟",
-    "answer_ar": "لا. يطبّق إقليم كوردستان قانون العمل رقم 71 لسنة 1987، ويشترط ألّا تقل العمالة المحلية عن 75% (قرار مجلس وزراء الإقليم رقم 172 لسنة 2022). وتصدر إجازات العمل فيه عن وزارة العمل والشؤون الاجتماعية في حكومة الإقليم، فلا تفترض أن التعليمات الاتحادية رقم 1 لسنة 2026 تنطبق كما هي.",
+    "answer_ar": "لا. يطبّق إقليم كوردستان قانون العمل رقم 71 لسنة 1987. وتصدر إجازات العمل فيه عن وزارة العمل والشؤون الاجتماعية في حكومة الإقليم، فلا تفترض أن التعليمات الاتحادية رقم 1 لسنة 2026 تنطبق كما هي.",
     "question_en": "Is a work permit for Erbil handled the same way as in Baghdad?",
-    "answer_en": "No. The Kurdistan Region applies Labour Law No. 71 of 1987 and requires at least 75% local staff (KRG Council of Ministers Decree No. 172 of 2022). Work permits there are issued by the KRG Ministry of Labour and Social Affairs, so federal Instructions No. 1 of 2026 should not be assumed to apply as-is.",
+    "answer_en": "No. The Kurdistan Region applies Labour Law No. 71 of 1987. Work permits there are issued by the KRG Ministry of Labour and Social Affairs, so federal Instructions No. 1 of 2026 should not be assumed to apply as-is.",
     "law_status_as_of": "2026-10",
     "source": "www.al-taswia.com",
     "author": "Othman Al-Juboori, Iraqi lawyer, expert in Iraqi labour law",
