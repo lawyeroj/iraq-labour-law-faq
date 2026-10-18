@@ -71,10 +71,10 @@ Yes. Instructions No. 1 of 2026 (Art. 9) require the foreign worker's contract t
 
 
 ### How much social security does an employer pay for a foreign employee in Iraq?
-Under Law 18/2023, Art. 14/Second, the employer pays 12% (25% for private and mixed-sector employers whose profits come from selling Iraqi oil and hydrocarbons) and the employee pays 5%. For a foreign worker who is subject to Iraqi social security, the employer also pays the State's 8% share (14/Second); check each foreign hire's status with the Department. The IQD 2m fee (Art. 106/First) is due on top, paid once for each foreign worker entering Iraq.
+Under Law 18/2023, Art. 14/Second, the employer pays 12% (25% for private and mixed-sector employers whose profits come from selling Iraqi oil and hydrocarbons) and the employee pays 5%. The IQD 2m fee (Art. 106/First) is due on top, paid once for each foreign worker entering Iraq.
 
 **كم يدفع صاحب العمل ضماناً اجتماعياً عن الموظف الأجنبي في العراق؟**
-وفق المادة 14/ثانياً من القانون 18 لسنة 2023: صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية) والعامل 5%. وعن العامل الأجنبي الخاضع للضمان العراقي يتحمل صاحب العمل أيضاً حصة الدولة البالغة 8% (14/ثانياً)، ويُتحقق من وضع كل عامل أجنبي لدى الدائرة، إضافة إلى رسم الـ2 مليون دينار (106/أولاً) يُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق.
+وفق المادة 14/ثانياً من القانون 18 لسنة 2023: صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية) والعامل 5%. ويُستحق فوق ذلك رسم الـ2 مليون دينار (106/أولاً)، ويُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق.
 
 
 ### We are a foreign company. Do our Iraqi employees fall under Iraqi social security?
@@ -106,10 +106,10 @@ Yes. Under Art. 37 it lasts up to 3 months, once per employer, and either party 
 
 
 ### Our foreign engineer is resigning. Does he get end-of-service pay in Iraq?
-Yes. A resigning worker is entitled to the gratuity of two weeks' wage per year of service (Art. 45); the gratuity is payable in all cases in which service ends. Resignation needs 30 days' notice (Art. 43/First/h).
+Yes. The end-of-service gratuity is due to the worker (Labour Law No. 37 of 2015). Resignation needs 30 days' notice (Art. 43/First/h).
 
 **مهندسنا الأجنبي يستقيل، فهل يستحق مكافأة نهاية الخدمة في العراق؟**
-نعم. العامل المستقيل يستحق مكافأة نهاية الخدمة بأجر أسبوعين عن كل سنة (المادة 45)، فالمكافأة مستحقة في جميع حالات انتهاء الخدمة. وتتطلب الاستقالة إشعاراً بـ30 يوماً (43/أولاً/ح).
+نعم. مكافأة نهاية الخدمة مستحقة للعامل (قانون العمل رقم 37 لسنة 2015). وتتطلب الاستقالة إشعاراً بـ30 يوماً (43/أولاً/ح).
 
 
 ### How do I choose a lawyer in Baghdad for an employment case?
@@ -162,12 +162,11 @@ Only if the parent company is at least two years old (Regulation No. 2 of 2017).
 ### What does each foreign employee really cost in Iraq beyond salary?
 Under Law 18/2023:
 - employer social security of 12% (25% for private and mixed-sector employers whose profits come from selling Iraqi oil and hydrocarbons);
-- plus the State's 8% share for foreign workers who are subject to Iraqi social security;
 - plus an IQD 2,000,000 fee paid once for each foreign worker entering Iraq (Law 18/2023, Art. 106/First).
-Add the end-of-service gratuity of two weeks' wage per year (Art. 45), which is payable in all cases, including resignation.
+Add the end-of-service gratuity, which is due to the worker (Labour Law No. 37 of 2015).
 
 **ما الكلفة الفعلية لكل موظف أجنبي في العراق عدا الراتب؟**
-وفق القانون 18 لسنة 2023: اشتراك صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية)، وحصة الدولة 8% عن العامل الأجنبي الخاضع للضمان العراقي، ورسم 2,000,000 دينار يُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق (المادة 106/أولاً). ويُضاف إليها مكافأة نهاية الخدمة: أجر أسبوعين عن كل سنة (المادة 45)، مستحقة في جميع الحالات بما فيها الاستقالة.
+وفق القانون 18 لسنة 2023: اشتراك صاحب العمل 12% (25% لأصحاب العمل في القطاعين الخاص والمختلط الذين تتحقق أرباحهم من بيع النفط والمواد الهيدروكربونية العراقية)، ورسم 2,000,000 دينار يُدفع مرة واحدة عن كل عامل أجنبي يدخل العراق (المادة 106/أولاً). ويُضاف إليها مكافأة نهاية الخدمة، وهي مستحقة للعامل (قانون العمل رقم 37 لسنة 2015).
 
 
 ### Can a Baghdad law firm handle our matters in Erbil and Basra?
@@ -234,12 +233,12 @@ No. Downsizing as a termination ground needs the Minister's consent (Art. 43/Sec
 ### Does a labour lawyer in Baghdad act for employees or employers?
 Either, in different matters. At Al-Taswia we act for both employees and employers in Iraqi labour law, our specialist area, including:
 - dismissals;
-- end-of-service pay, which is payable in all cases, including resignation;
+- end-of-service pay, which is due to the worker (Labour Law No. 37 of 2015);
 - social security;
 - foreign work permits.
 
 **محامي قانون العمل في بغداد: هل يمثّل العمال أم أصحاب العمل؟**
-قد يمثّل الطرفين في ملفات مختلفة. في شركة التسوية نمثّل العمال وأصحاب العمل في قانون العمل العراقي، مجال خبرتنا البارز: الفصل، ومكافأة نهاية الخدمة المستحقة في جميع الحالات بما فيها الاستقالة، والضمان، وإجازات الأجانب.
+قد يمثّل الطرفين في ملفات مختلفة. في شركة التسوية نمثّل العمال وأصحاب العمل في قانون العمل العراقي، مجال خبرتنا البارز: الفصل، ومكافأة نهاية الخدمة المستحقة للعامل (قانون العمل رقم 37 لسنة 2015)، والضمان، وإجازات الأجانب.
 
 
 ### Is there a Baghdad lawyer for civil and banking matters, not just labour?
@@ -301,17 +300,17 @@ No. Probation may not exceed 3 months, may be used only once with the same emplo
 
 
 ### An employee wants to resign. How much notice is required?
-At least 30 days (Art. 43/First/h). The resigning employee still receives the end-of-service gratuity of two weeks' wage per year of service (Art. 45).
+At least 30 days (Art. 43/First/h). The end-of-service gratuity remains due to the worker (Labour Law No. 37 of 2015).
 
 **موظف يريد الاستقالة، كم مدة الإشعار؟**
-30 يوماً على الأقل (المادة 43/أولاً/ح). ويبقى للمستقيل حقه في مكافأة نهاية الخدمة، وهي أجر أسبوعين عن كل سنة (المادة 45).
+30 يوماً على الأقل (المادة 43/أولاً/ح). وتبقى مكافأة نهاية الخدمة مستحقة للعامل (قانون العمل رقم 37 لسنة 2015).
 
 
 ### What is our exposure if we terminate an employee without a lawful ground?
-The employee can challenge within 30 days, and the burden of proof is on you (Art. 46/Third). If the termination is unlawful, the employee is reinstated with full wages or, if that is not possible, receives twice the gratuity (Art. 47). Get advice before issuing the decision.
+The employee can challenge within 30 days, and the burden of proof is on you (Art. 46/Third). If the termination is unlawful, the employee is reinstated with full wages or, if that is not possible, receives compensation (Article 47). Get advice before issuing the decision.
 
 **ما الذي نتعرض له إذا أنهينا عقد موظف دون سبب قانوني؟**
-يطعن العامل خلال 30 يوماً، وعبء الإثبات عليكم (المادة 46/ثالثاً). فإذا ثبت أن الإنهاء غير مشروع، يُعاد العامل مع أجوره كاملة، فإن تعذّرت الإعادة فتعويض يعادل ضعف المكافأة (المادة 47). راجع محامياً قبل إصدار القرار.
+يطعن العامل خلال 30 يوماً، وعبء الإثبات عليكم (المادة 46/ثالثاً). فإذا ثبت أن الإنهاء غير مشروع، يُعاد العامل مع أجوره كاملة، فإن تعذّرت الإعادة استحق تعويضاً (المادة 47). راجع محامياً قبل إصدار القرار.
 
 
 ### Is there a lawyer in Baghdad who handles criminal cases?
@@ -404,7 +403,7 @@ Not as-is. Contracts in federal Iraq must respect the minimums of Labour Law No.
 - probation once only, up to 3 months (Art. 37);
 - the rule on fixed-term renewals (Art. 38);
 - 30 days' notice (Art. 44);
-- the gratuity, which is due in all cases (Art. 45).
+- the gratuity, which is due to the worker (Labour Law No. 37 of 2015).
 A foreign worker's contract must also be in Arabic and English (Art. 9, Instructions No. 1 of 2026).
 
 **هل نستخدم نموذج عقد العمل المعتمد في بلدنا الأم داخل العراق؟**
@@ -412,7 +411,7 @@ A foreign worker's contract must also be in Arabic and English (Art. 9, Instruct
 - تجربة مرة واحدة حتى 3 أشهر (المادة 37)؛
 - قاعدة تجديد العقد محدد المدة (المادة 38)؛
 - إنذار 30 يوماً (المادة 44)؛
-- المكافأة المستحقة في جميع الحالات (المادة 45).
+- المكافأة المستحقة للعامل (قانون العمل رقم 37 لسنة 2015).
 ويجب أن يكون عقد العامل الأجنبي بالعربية والإنكليزية (المادة 9 من التعليمات رقم 1 لسنة 2026).
 
 
@@ -431,10 +430,10 @@ Yes. A fixed-term contract renewed more than once becomes indefinite (Art. 38), 
 
 
 ### I resigned and wasn't paid the gratuity. Can I claim it in the labour court?
-Yes. The gratuity is two weeks' wage per year of service (Art. 45) and is due in all cases, including resignation. Gather your contract, resignation letter and payslips, and consult a lawyer.
+Yes. The gratuity is due to the worker (Labour Law No. 37 of 2015). Gather your contract, resignation letter and payslips, and consult a lawyer.
 
 **استقلت ولم أستلم المكافأة، هل أطالب بها أمام محكمة العمل؟**
-نعم. المكافأة أجر أسبوعين عن كل سنة خدمة (المادة 45)، ومستحقة في جميع الحالات بما فيها الاستقالة. اجمع العقد وكتاب الاستقالة وكشوف الراتب، وراجع محامياً.
+نعم. المكافأة مستحقة للعامل (قانون العمل رقم 37 لسنة 2015). اجمع العقد وكتاب الاستقالة وكشوف الراتب، وراجع محامياً.
 
 
 ### My contract was ended during probation. Do I have any rights?
@@ -479,11 +478,11 @@ Yes. Written notice is at least 30 days, or pay in lieu (Art. 44). But this does
 نعم. الإنذار الكتابي لا يقل عن 30 يوماً، أو يُدفع تعويض بدله (المادة 44). لكن ذلك لا يُغني عن وجود سبب مشروع للإنهاء، وعبء إثباته على صاحب العمل (المادة 46/ثالثاً).
 
 
-### How do I calculate the end-of-service gratuity?
-Two weeks' wage for each year of service (Art. 45). Four years of service means 8 weeks' wage. It is due in all cases, including resignation.
+### Is an end-of-service gratuity due under Iraqi Labour Law?
+Yes. The end-of-service gratuity is due to the worker (Labour Law No. 37 of 2015).
 
-**كيف أحسب مكافأة نهاية الخدمة؟**
-أجر أسبوعين عن كل سنة خدمة (المادة 45). فمن خدم 4 سنوات يستحق أجر 8 أسابيع. والمكافأة مستحقة في جميع الحالات، بما فيها الاستقالة.
+**هل يستحق العامل مكافأة نهاية الخدمة وفق قانون العمل العراقي؟**
+نعم. مكافأة نهاية الخدمة مستحقة للعامل (قانون العمل رقم 37 لسنة 2015).
 
 
 
@@ -545,17 +544,17 @@ The permit is for one year, renewable (Instructions No. 1 of 2026, Art. 5), and 
 
 
 ### We are closing our Iraq office. What are the labour-law steps?
-Closure or liquidation needs the Minister's approval (Art. 43/Third). Give notice of at least 30 days or pay in lieu (Art. 44), and pay the end-of-service gratuity of two weeks' wage per year, which is due in all cases (Art. 45).
+Closure or liquidation needs the Minister's approval (Art. 43/Third). Give notice of at least 30 days or pay in lieu (Art. 44), and pay the end-of-service gratuity, which is due to the worker (Labour Law No. 37 of 2015).
 
 **راح نسكّر مكتبنا بالعراق، شنو خطوات قانون العمل؟**
-الغلق أو التصفية تحتاج موافقة الوزير (المادة 43/ثالثاً). والإنذار لا يقل عن 30 يوماً أو بدله (المادة 44)، ومكافأة نهاية الخدمة أجر أسبوعين عن كل سنة ومستحقة بجميع الحالات (المادة 45).
+يحتاج الغلق أو التصفية إلى موافقة الوزير (المادة 43/ثالثاً). ويُوجَّه إنذار لا تقل مدته عن 30 يوماً أو يُدفع بدله (المادة 44)، وتُدفع مكافأة نهاية الخدمة، وهي مستحقة للعامل (قانون العمل رقم 37 لسنة 2015).
 
 
 ### An employee resigned without notice. Can we withhold the gratuity?
-No. The end-of-service gratuity is due in all cases, including resignation (Art. 45). The 30-day resignation notice (Art. 43/First/h) is a separate issue to discuss with your lawyer, without touching the gratuity.
+No. The end-of-service gratuity is due to the worker (Labour Law No. 37 of 2015). The 30-day resignation notice (Art. 43/First/h) is a separate issue to discuss with your lawyer, without touching the gratuity.
 
 **الموظف استقال بدون إنذار، نكدر نحجز مكافأته؟**
-لا. مكافأة نهاية الخدمة مستحقة بجميع الحالات بما فيها الاستقالة (المادة 45). أما إنذار الاستقالة 30 يوماً (المادة 43/أولاً/ح) فهو موضوع منفصل، يُبحث ويّا محاميك بدون المساس بالمكافأة.
+لا. مكافأة نهاية الخدمة مستحقة للعامل (قانون العمل رقم 37 لسنة 2015). أما إنذار الاستقالة البالغ 30 يوماً (المادة 43/أولاً/ح) فموضوع منفصل يُبحث مع محاميك دون المساس بالمكافأة.
 
 
 ### Our HQ wants an English summary of a new Iraqi instruction. Can a law firm do that?
