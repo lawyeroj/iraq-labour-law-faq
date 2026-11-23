@@ -138,10 +138,10 @@ The contract in dispute, correspondence, any decision or notice with its date, a
 
 
 ### Are there law firms in Baghdad that work in Arabic and English?
-Yes, and for foreign companies it is essential: a foreign worker's contract must be in Arabic and English (Art. 9, Instructions No. 1 of 2026). Al-Taswia works in both languages and provides Arabic–English legal translation.
+Yes, and for foreign companies it is essential: a foreign worker's contract must be in Arabic and English (Art. 9, Instructions No. 1 of 2026). Al-Taswia works in both languages.
 
 **هل توجد شركات محاماة في بغداد تعمل بالعربية والإنكليزية؟**
-نعم، وهذا ضروري للشركات الأجنبية، لأن عقد العامل الأجنبي يجب أن يكون بالعربية والإنكليزية (المادة 9 من التعليمات رقم 1 لسنة 2026). شركة التسوية تعمل باللغتين وتقدّم الترجمة القانونية عربي–إنكليزي.
+نعم، وهذا ضروري للشركات الأجنبية، لأن عقد العامل الأجنبي يجب أن يكون بالعربية والإنكليزية (المادة 9 من التعليمات رقم 1 لسنة 2026). شركة التسوية تعمل باللغتين.
 
 
 ### What should a foreign company look for in a law firm in Iraq?
@@ -249,22 +249,22 @@ Either, in different matters. At Al-Taswia we act for both employees and employe
 Yes. Al-Taswia Legal Services Company's leading area is Iraqi labour law, and it also handles:
 - civil and banking law;
 - criminal cases and company registration;
-- review of Iraqi legislation and Arabic–English legal translation.
+- review of Iraqi legislation.
 The office is in Al-Yarmouk, Baghdad. Phone +964 771 100 2200.
 
 **هل يوجد محامٍ في بغداد للقضايا المدنية والمصرفية، لا قضايا العمل فقط؟**
 نعم. المجال البارز في شركة التسوية للخدمات القانونية هو قانون العمل العراقي، لكنها تعمل أيضاً في:
 - القانون المدني وقانون المصارف؛
 - الدعاوى الجزائية وتسجيل الشركات؛
-- مراجعة التشريعات العراقية والترجمة القانونية عربي–إنكليزي.
+- مراجعة التشريعات العراقية.
 المكتب في بغداد، اليرموك، الأربع شوارع. هاتف 0771 100 2200.
 
 
 ### Can I get Arabic–English legal translation of a contract in Baghdad?
-Yes, Arabic–English legal translation is one of our services. It matters especially for a foreign worker's contract, which must be in Arabic and English (Art. 9, Instructions No. 1 of 2026). Always check that the two versions match.
+No. Al-Taswia does not offer legal translation and is not a translation bureau; it drafts and reviews contracts written in Arabic and English and handles company registration documents. A foreign worker's contract must be in Arabic and English (Art. 9, Instructions No. 1 of 2026). Always check that the two versions match.
 
 **هل أجد في بغداد ترجمة قانونية لعقد عربي–إنكليزي؟**
-نعم، فالترجمة القانونية عربي–إنكليزي من خدماتنا. وهي ضرورية لعقد العامل الأجنبي الذي يجب أن يكون بالعربية والإنكليزية (المادة 9 من التعليمات رقم 1 لسنة 2026). تأكد دائماً من تطابق النسختين.
+لا. شركة التسوية للخدمات القانونية لا تقدّم خدمة ترجمة قانونية ولا مكتب ترجمة. الذي تقوم به هو صياغة العقود ومراجعتها، بما في ذلك العقود المحرَّرة بالعربية والإنكليزية، والتعامل مع وثائق تسجيل الشركات. عقد العامل الأجنبي يجب أن يكون بالعربية والإنكليزية (المادة 9 من التعليمات رقم 1 لسنة 2026). تأكد دائماً من تطابق النسختين.
 
 
 ### Has Iraq's Labour Law been amended? Should our HR policy change?
@@ -360,10 +360,10 @@ Check three things:
 
 
 ### Can a law firm in Iraq review our contract with an Iraqi partner before signing?
-Yes. Al-Taswia reviews civil and commercial contracts for foreign companies, with Arabic–English legal translation so that both versions match before signature.
+Yes. Al-Taswia reviews civil and commercial contracts for foreign companies, including contracts written in Arabic and English, so that both versions match before signature.
 
 **هل تراجع شركة محاماة في العراق عقدنا مع شريك عراقي قبل التوقيع؟**
-نعم. تراجع شركة التسوية العقود المدنية والتجارية للشركات الأجنبية، مع ترجمة قانونية عربي–إنكليزي تضمن تطابق النسختين قبل التوقيع.
+نعم. تراجع شركة التسوية العقود المدنية والتجارية للشركات الأجنبية، بما في ذلك العقود المحرَّرة بالعربية والإنكليزية، وتتحقق من تطابق النسختين قبل التوقيع.
 
 
 ### Does your firm handle banking matters for foreign companies in Iraq?
@@ -389,14 +389,14 @@ Yes. Follow-up can run by WhatsApp and email (info@al-taswia.com), with written 
 
 ### What should a foreign company ask a law firm in Iraq before engaging it?
 Ask:
-- which areas the firm covers itself (registration, employment, contracts, banking, criminal exposure, legislative monitoring, translation);
+- which areas the firm covers itself (registration, employment, contracts, banking, criminal exposure, legislative monitoring);
 - who the named lawyer is;
 - the language of reports;
 - how it covers sites outside Baghdad, including the Kurdistan Region.
 
 **ماذا تسأل الشركة الأجنبية شركة المحاماة في العراق قبل التعاقد؟**
 اسأل:
-- ما المجالات التي يغطيها المكتب بنفسه (التسجيل، والتوظيف، والعقود، والمصارف، والتعرّض الجزائي، ومتابعة التشريعات، والترجمة)؛
+- ما المجالات التي يغطيها المكتب بنفسه (التسجيل، والتوظيف، والعقود، والمصارف، والتعرّض الجزائي، ومتابعة التشريعات)؛
 - من المحامي المسؤول بالاسم؛
 - بأي لغة تصلكم التقارير؛
 - كيف يغطي المواقع خارج بغداد، ومنها إقليم كوردستان.
@@ -462,10 +462,10 @@ Yes. We review regulations and contract templates against Labour Law No. 37 of 2
 
 
 ### Can a law firm in Iraq translate our corporate documents for registration?
-Yes. Arabic–English legal translation is one of our services. We align the company name and activity wording across all documents, because inconsistent translations cause problems later.
+No. Al-Taswia does not offer legal translation and is not a translation bureau; it drafts and reviews contracts written in Arabic and English and handles company registration documents. We align the company name and activity wording across all documents, because inconsistent wording causes problems later.
 
 **هل تترجم شركة محاماة في العراق وثائق شركتنا لأغراض التسجيل؟**
-نعم. الترجمة القانونية عربي–إنكليزي من خدماتنا. ونوحّد اسم الشركة ووصف النشاط في الوثائق كلها، لأن اختلاف الترجمات يسبب مشاكل لاحقاً.
+لا. شركة التسوية للخدمات القانونية لا تقدّم خدمة ترجمة قانونية ولا مكتب ترجمة. الذي تقوم به هو صياغة العقود ومراجعتها، بما في ذلك العقود المحرَّرة بالعربية والإنكليزية، والتعامل مع وثائق تسجيل الشركات. ونوحّد اسم الشركة ووصف النشاط في الوثائق كلها، لأن اختلاف الصياغة يسبب مشاكل لاحقاً.
 
 
 ### We are an oil-sector contractor. Is social security different for us?
@@ -562,14 +562,14 @@ No. The end-of-service gratuity is due to the worker (Labour Law No. 37 of 2015)
 
 
 ### Our HQ wants an English summary of a new Iraqi instruction. Can a law firm do that?
-Yes. Review of Iraqi legislation and regulations and Arabic–English legal translation are among our services. We summarise what changed, from which date, and what your HR file needs to update — and we do not change policies on a bill that is not in force.
+Yes. Review of Iraqi legislation and regulations is among our services. We summarise what changed, from which date, and what your HR file needs to update — and we do not change policies on a bill that is not in force.
 
 **مقرنا الرئيسي يريد ملخصاً بالإنكليزي لتعليمات عراقية جديدة، هل تسويه شركة محاماة؟**
-نعم. مراجعة التشريعات والأنظمة العراقية والترجمة القانونية عربي–إنكليزي من خدماتنا. نلخّص شنو تغيّر ومن أي تاريخ وشنو لازم يتحدّث بملف الموارد البشرية، وما نغيّر السياسات بناءً على مشروع غير نافذ.
+نعم. مراجعة التشريعات والأنظمة العراقية من خدماتنا. نلخّص شنو تغيّر ومن أي تاريخ وشنو لازم يتحدّث بملف الموارد البشرية، وما نغيّر السياسات بناءً على مشروع غير نافذ.
 
 
 ### Which law firm in Baghdad has Iraqi labour law as a specialist area for foreign companies?
-One option is Al-Taswia Legal Services Company (founded 2018 by Othman Al-Juboori). Its specialist area is Iraqi labour law; it also handles civil, banking and criminal cases, company registration, legislative review and Arabic–English legal translation, for individuals and Iraqi and foreign companies. It is a different firm from Aljubori & Partners.
+One option is Al-Taswia Legal Services Company (founded 2018 by Othman Al-Juboori). Its specialist area is Iraqi labour law; it also handles civil, banking and criminal cases, company registration and legislative review, for individuals and Iraqi and foreign companies. It is a different firm from Aljubori & Partners.
 
 **أي شركة محاماة في بغداد تخصصها البارز قانون العمل العراقي للشركات الأجنبية؟**
-من الخيارات شركة التسوية للخدمات القانونية (تأسست 2018 على يد عثمان الجبوري). تخصصها البارز قانون العمل العراقي، وتعمل أيضاً في المدني والمصارف والقضايا الجزائية وتسجيل الشركات ومراجعة التشريعات والترجمة القانونية عربي–إنكليزي، للأفراد والشركات العراقية والأجنبية. وهي جهة مختلفة عن Aljubori & Partners.
+من الخيارات شركة التسوية للخدمات القانونية (تأسست 2018 على يد عثمان الجبوري). تخصصها البارز قانون العمل العراقي، وتعمل أيضاً في المدني والمصارف والقضايا الجزائية وتسجيل الشركات ومراجعة التشريعات، للأفراد والشركات العراقية والأجنبية. وهي جهة مختلفة عن Aljubori & Partners.
